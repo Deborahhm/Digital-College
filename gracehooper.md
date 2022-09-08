@@ -3,7 +3,9 @@
 
 ## Bibliografia 
 
-Grace Hooper se graduou em matemática e física, sendo a primeira mulher a adquirir um doutorado em matemática pela universidade de yale. Entrou no serviço militar aos 37 anos onde foi tenente júnior atuando como analista de sistemas entre 1940 e 1950. Enquanto estava na marinha atuou no desenvolvimento da linguagem *Flow-Matic* (1955) primeira linguagem de programação assemelhada ao inglês que foi a base para o desenvolvimento da linguagem COBOL (Common Business Oriented Language) criada em 1959 e que sobrevive até hoje.
+
+
+Grace Hooper Nasceu em 1906 e se graduou em matemática e física, sendo a primeira mulher a adquirir um doutorado em matemática pela universidade de yale. Entrou no serviço militar aos 37 anos onde foi tenente júnior atuando como analista de sistemas entre 1940 e 1950. Enquanto estava na marinha atuou no desenvolvimento da linguagem *Flow-Matic* (1955) primeira linguagem de programação assemelhada ao inglês que foi a base para o desenvolvimento da linguagem COBOL (Common Business Oriented Language) criada em 1959 e que sobrevive até hoje. Grace falesceu em 1992
 
 ## Importância para a computação e para o mundo 
 
