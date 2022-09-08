@@ -1,2 +1,3 @@
-# Digital-College
-Repositório utilizado para armazenas os projetos do digital college
+## Digital-College
+
+Repositório utilizado para armazenas os projetos do digital college :heart: .
