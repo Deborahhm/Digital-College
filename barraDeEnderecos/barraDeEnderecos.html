@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<a href="javascript:clicou()">Clique aqui</a>
+	<script>
+		/*Função para calcular a média de 4 notas */
+		function media(nota1, nota2, nota3, nota4){
+			var mediaCalculada = (nota1 + nota2 + nota3 + nota4)/4;
+			return mediaCalculada; 
+		} 
+
+		function clicou(){
+			window.alert("Parabéns! Você clicou");
+		}
+		/* código principal(main) */
+		/* declaração de variáveis*/
+		var nota1 = 5, 
+			nota2 = 6,
+			nota3 = 7,
+			nota4 = 8;
+
+		/* chamando a função média e passando as notas como argumentos. Resultado recebe o valor da média das 4 notas */
+		var resultado = media(nota1,nota2,nota3,nota4); 
+
+		/* utilizando a variável resultado que recebeu a */
+		if(resultado >= 7){
+			window.alert("Parabéns! Você foi aprovado");
+		}else{
+			window.alert("você foi reprovado");
+		}
+	</script>
+</body>
+</html>
