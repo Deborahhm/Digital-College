@@ -7,7 +7,8 @@ Um conceito importante para entender todos os campos da barra de enderenço é q
 
 ## Location 
 Uma API interessante para analisar todos esses atributos é o location. Com o devtools aberto podemos descobrir várias informações da página, como o nome do host, por exemplo. Como ilustra a figura abaixo: 
-![screenshotDoLocation]
+![screenshotDoLocation](https://raw.githubusercontent.com/Deborahhm/Digital-College/main/barraDeEnderecos/images/Screenshot%20from%202022-09-25%2019-39-40.png)
+
 Entre os atributos do location, teremos: 
 - Location.ancestorOrigins
 	Uma lista da DOM da página 
@@ -27,7 +28,7 @@ Entre os atributos do location, teremos:
 
 A barra de endereço especifica o local na internet onde o arquivo/página web está localizado e essa é constituída de vários elementos como veremos a seguir na imagem. 
 
-![Barra de Ferramentas atributos](images/URL.drawio.png)
+![Barra de Ferramentas atributos](https://raw.githubusercontent.com/Deborahhm/Digital-College/main/barraDeEnderecos/images/URL.drawio.png)
 	
 ## Protocolo 
 
