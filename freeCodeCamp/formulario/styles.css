@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0; 
+    background-image: url(images/fruits.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#container{
+    padding: 1vh;
+    width: 60%;
+    margin: 10vh auto;
+    max-width: 600px;
+    background-color: #D6D4D5;
+    border: 2px solid #231818;
+}
+
+.container-title{
+    text-align: center;
+    color: #861B12;
+    padding: 1vh;
+}
+
+fieldset{
+    border-style: none;
+}
+
+label{
+    display: block;
+    margin: 0.5rem 0;
+    color: #231818;
+}
+
+form p{
+    color: #861B12;
+}
